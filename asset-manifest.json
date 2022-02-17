@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/texttutil/static/css/main.21c36b04.css",
-    "main.js": "/texttutil/static/js/main.59749d11.js",
+    "main.js": "/texttutil/static/js/main.b734172c.js",
     "index.html": "/texttutil/index.html",
     "main.21c36b04.css.map": "/texttutil/static/css/main.21c36b04.css.map",
-    "main.59749d11.js.map": "/texttutil/static/js/main.59749d11.js.map"
+    "main.b734172c.js.map": "/texttutil/static/js/main.b734172c.js.map"
   },
   "entrypoints": [
     "static/css/main.21c36b04.css",
-    "static/js/main.59749d11.js"
+    "static/js/main.b734172c.js"
   ]
 }
